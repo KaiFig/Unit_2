@@ -1,2 +1,9 @@
 Boolean logic: True or false
 Transitor types: And Or Not 
+
+And: a b
+     0 0
+     1 0
+     0 1
+     1 1
+Only in last case it would be 1 
