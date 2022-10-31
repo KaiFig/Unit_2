@@ -1,0 +1,8 @@
+CPU: Central processing unit
+Memory RAM: Can have an Instruction Table: Each command has a seperate number 
+The RAM address is the last four bits of an instruction
+Control Unit (CU): Controls the registers
+Computer follows four phases:
+  Fetch: Gets code 
+  Decode: The RAM address is translated to identify which register it came from 
+  Execute: It runs the program
