@@ -18,7 +18,7 @@ i = 1
 humiditylst = []
 templist = []
 readingslist = []
-while 0<i<30:
+while 0<i<101:
     time.sleep(0.1)
     value = read() #wait until data is in the port
     msg = value.decode('utf-8')
